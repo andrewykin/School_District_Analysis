@@ -2,10 +2,11 @@
 
 ## Overview
 
-The purpose of this was to _________.
+Assist Maria in analyzing 15 schools in the city school district. We compared schools by math & reading scores, size, budget, & type (Charter vs District).
+
+We also investigated claim against Thomas High School's 9th graders and adjusted Thomas High School's statistics by removing their 9th graders scores.
 
 ## Results
-
 - How is the district summary affected?
   - 
 - How is the school summary affected?
